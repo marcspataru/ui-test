@@ -1,8 +1,8 @@
 # ui-test
 ## IndeJuice UI-Test
-Task A: Done
-Task B: Done
-Task C2: Javascript - Done
+* Task A: Done
+* Task B: Done
+* Task C2: Javascript - Done
 
 ### Task A
 Used pure HTML and CSS to design a very similar design to the one provided.
